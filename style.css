@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+    align-content: center;
+}
+img {
+    width: 40%;
+    height: auto;
+}
